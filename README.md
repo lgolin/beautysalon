@@ -35,4 +35,4 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ---
 
-Feito com ♥ by [Lola](https://github.com/lgolin) :wave:
+Feito com ♥ by [Laís Golin](https://github.com/lgolin) :wave:
